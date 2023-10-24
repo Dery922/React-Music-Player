@@ -1,0 +1,19 @@
+.song-container {
+  min-height: 60vh; //height allocated for the song container
+  display: flex; //put all the items in the container in a line
+  flex-direction: column; //allocate the items position in a column
+  align-items: center; //put all the items in the center of the container
+  justify-content: center; //make some space between them
+
+  img {
+    width: 20%;
+    border-radius: 50%;
+  }
+
+  h2 {
+    padding: 3rem 1rem 1rem 1rem;
+  }
+  h3 {
+    font-size: 1rem;
+  }
+}

@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+my documentation
+this music player is develop using the following packages
+
+1. sass
+2. fontawasome
+   links to use and learn how to use fontawasome in react
+   https://fontawesome.com/docs/web/use-with/react/
